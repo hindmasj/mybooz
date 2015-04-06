@@ -1,6 +1,6 @@
 package com.github.hindmasj.mybooz;
 
-import org.junit.runners.RunWith;
+import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
 /** Test suite to control all other tests.
